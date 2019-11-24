@@ -48,31 +48,31 @@
 						<nav class="menu">
 							<ul class="main_menu">
 								<li>
-									<a href="index.html">Home</a>
+									<a href="index.php">Home</a>
 								</li>
 
 								<li>
-									<a href="menu.html">Menu</a>
+									<a href="menu.php">Menu</a>
 								</li>
 
 								<li>
-									<a href="reservation.html">Reservation</a>
+									<a href="">Reservation</a>
 								</li>
 
 								<li>
-									<a href="gallery.html">Gallery</a>
+									<a href="gallery.php">Gallery</a>
 								</li>
 
 								<li>
-									<a href="about.html">About</a>
+									<a href="">About</a>
 								</li>
 
 								<li>
-									<a href="blog.html">Blog</a>
+									<a href="">Blog</a>
 								</li>
 
 								<li>
-									<a href="contact.html">Contact</a>
+									<a href="">Contact</a>
 								</li>
 							</ul>
 						</nav>
