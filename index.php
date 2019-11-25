@@ -54,7 +54,7 @@
                                 </li>
                                 
 								<li>
-									<a href="contact.php">Contact</a>
+									<a href="">Contact</a>
 								</li>
 							</ul>
 						</nav>
@@ -99,11 +99,11 @@
 				<div class="item-slick1 item1-slick1" style="background-image: url(images/slide1-01.jpg);">
 					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 txt1 t-center animated visible-false m-b-15" data-appear="fadeInDown">
-							Welcome to
+							Bienvenidos a
 						</span>
 
 						<h2 class="caption2-slide1 tit1 t-center animated visible-false m-b-37" data-appear="fadeInUp">
-							Pato Place
+							Disfraces Coqui
 						</h2>
 
 						<div class="wrap-btn-slide1 animated visible-false" data-appear="zoomIn">
@@ -118,11 +118,11 @@
 				<div class="item-slick1 item2-slick1" style="background-image: url(images/master-slides-02.jpg);">
 					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 txt1 t-center animated visible-false m-b-15" data-appear="rollIn">
-							Welcome to
+							Bienvenidos a
 						</span>
 
 						<h2 class="caption2-slide1 tit1 t-center animated visible-false m-b-37" data-appear="lightSpeedIn">
-							Pato Place
+							Disfraces Coqui
 						</h2>
 
 						<div class="wrap-btn-slide1 animated visible-false" data-appear="slideInUp">
@@ -137,11 +137,11 @@
 				<div class="item-slick1 item3-slick1" style="background-image: url(images/master-slides-01.jpg);">
 					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 txt1 t-center animated visible-false m-b-15" data-appear="rotateInDownLeft">
-							Welcome to
+							Bienvenidos a
 						</span>
 
 						<h2 class="caption2-slide1 tit1 t-center animated visible-false m-b-37" data-appear="rotateInUpRight">
-							Pato Place
+							Disfraces Coqui
 						</h2>
 
 						<div class="wrap-btn-slide1 animated visible-false" data-appear="rotateIn">
@@ -258,69 +258,6 @@
 							Every Day
 						</li>
 					</ul>
-				</div>
-
-				<div class="col-sm-6 col-md-4 p-t-50">
-					<!-- - -->
-					<h4 class="txt13 m-b-33">
-						Latest twitter
-					</h4>
-
-					<div class="m-b-25">
-						<span class="fs-13 color2 m-r-5">
-							<i class="fa fa-twitter" aria-hidden="true"></i>
-						</span>
-						<a href="#" class="txt15">
-							@colorlib
-						</a>
-
-						<p class="txt14 m-b-18">
-							Activello is a good option. It has a slider built into that displays the featured image in the slider.
-							<a href="#" class="txt15">
-								https://buff.ly/2zaSfAQ
-							</a>
-						</p>
-
-						<span class="txt16">
-							21 Dec 2017
-						</span>
-					</div>
-
-					<div>
-						<span class="fs-13 color2 m-r-5">
-							<i class="fa fa-twitter" aria-hidden="true"></i>
-						</span>
-						<a href="#" class="txt15">
-							@colorlib
-						</a>
-
-						<p class="txt14 m-b-18">
-							Activello is a good option. It has a slider built into that displays
-							<a href="#" class="txt15">
-								https://buff.ly/2zaSfAQ
-							</a>
-						</p>
-
-						<span class="txt16">
-							21 Dec 2017
-						</span>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="end-footer bg2">
-			<div class="container">
-				<div class="flex-sb-m flex-w p-t-22 p-b-22">
-					<div class="p-t-5 p-b-5">
-						<a href="#" class="fs-15 c-white"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a>
-						<a href="#" class="fs-15 c-white"><i class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
-						<a href="#" class="fs-15 c-white"><i class="fa fa-twitter m-l-18" aria-hidden="true"></i></a>
-					</div>
-
-					<div class="txt17 p-r-20 p-t-5 p-b-5">
-						Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-					</div>
 				</div>
 			</div>
 		</div>
